@@ -9,6 +9,6 @@ package Modelo;
  *
  * @author TuNombre
  */
-public class Biblioteca {
+public class Libros {
     
 }
